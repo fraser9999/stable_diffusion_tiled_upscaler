@@ -1,0 +1,10 @@
+# **requirements.txt**
+--index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+diffusers>=0.31.0
+transformers>=4.30.0
+accelerate>=0.21.0
+safetensors
+numpy>=1.24.0
+Pillow>=10.0.0
+xformers>=0.0.20
